@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2177729962	Play_JumpLanded			\Default Work Unit\Play_JumpLanded	
+	2932040671	Play_Music			\Default Work Unit\Play_Music	
+	3114179205	Play_Coin			\Default Work Unit\Play_Coin	
+	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	57673110	Music	D:\Dev\Wwise\PlatformerTest\.cache\Windows\SFX\WAIKATO 01B Dawn Chorus Birds Magpie Turkey Cow Rural Farmland Hora Hora MKH8040_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music		62315720
+	69562902	JumpLanded	D:\Dev\Wwise\PlatformerTest\.cache\Windows\SFX\PlagueCastleJumpLanded-001_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\JumpLanded		384096
+	134850702	Coin	D:\Dev\Wwise\PlatformerTest\.cache\Windows\SFX\coin_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Coin		35372
+	163592821	Jump	D:\Dev\Wwise\PlatformerTest\.cache\Windows\SFX\jump_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump		29196
+
